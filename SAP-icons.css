@@ -2,9 +2,9 @@
 @font-face {
 	font-family: 'SAP Fiori Icons';
 	src:
-		url('https://github.com/PreranaCV/SACCustomFonts/blob/main/SAP-icons.ttf') format('woff2'),
+		url('https://github.com/PreranaCV/SACCustomFonts/blob/main/SAP-icons.ttf') format('truetype'),
 		url('https://github.com/PreranaCV/SACCustomFonts/blob/main/SAP-icons.woff') format('woff'),
-		url('https://github.com/PreranaCV/SACCustomFonts/blob/main/SAP-icons.woff2') format('truetype');
+		url('https://github.com/PreranaCV/SACCustomFonts/blob/main/SAP-icons.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
 }
